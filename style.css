@@ -1,0 +1,63 @@
+.head{
+    text-align: center;
+    border:2px solid;
+    font-family:cursive;
+    background-color: lawngreen;
+    font-size: 60px;
+}
+
+.details{
+    border: 3px solid;
+    font-family:cursive;
+    background-color: lightblue;
+    display: flexbox;
+    font-size: 60px;
+}
+
+a:link{
+    color:blue;
+
+}
+a:visited{
+    color:blue;
+    
+}
+.subject{
+    background-image: url("2.png");
+    border: solid;
+    font-family: cursive;
+    font-size: 60px;
+}
+.point{
+    border:solid;
+    background-color:#ffe4b5;
+    font-family:cursive;
+    font-size: 60px;
+}
+.maths{
+    text-align: center;
+    border:2px solid;
+    font-family:cursive;
+  background-color:yellow;
+    font-size: 60px;
+    
+}
+.chapter{
+    background-image: url("2.png");
+    border: solid;
+    font-family: cursive;
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
